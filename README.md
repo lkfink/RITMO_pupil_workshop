@@ -18,6 +18,13 @@ This code was written in MATLAB version 2021b and relies on the following:
 - Statistics Toolbox
 - Symbolic Toolbox
 
+## Running this code
+Download this Github repository. Open `Fink_RITMO_pupillometry_workshop_interactive.mlx`. 
+
+As long as all files have stayed in the same folder, MATLAB should find the required data and functions and all should run without problem. 
+
+Should trouble occur, or bugs be found, please [open an issue](https://github.com/lkfink/RITMO_pupil_workshop/issues).
+
 ## Citation
 If using anything from this repository, cite:
 
