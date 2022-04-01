@@ -7,7 +7,9 @@ This repository contains code and toy data for use during Lauren Fink's *Analyzi
 `Fink_toydata_RITMO.mat` contains the raw data we will be working with during the workshop. 
 
 The other two scripts are help functions, called in the main interactive script: 
-`genPRF.m` is a function to generate a pupillary response function, called in the interactive script. 
+
+`genPRF.m` is a function to generate a pupillary response function, called in the interactive script.  
+
 `getFFT.m` is a function to calculate the Fast Fourier Transform of an input signal. 
 
 ## Dependencies
