@@ -1,5 +1,5 @@
 # RITMO Pupillometry Workshop
-This repository contains code and toy data for use during Lauren Fink's *Analyzing Pupil Time Series* workshop held during a larger Pupillometry Workshop, April 4-5th, 2022, at the University of Oslo, Centre for Interdisciplinary Studies in Rhythm, Time, and Motion (RITMO).
+This repository contains code and toy data for use during Lauren Fink's *Analyzing Pupil Time Series* workshop held during a larger [Pupillometry Workshop, April 4-5th, 2022, at the University of Oslo, Centre for Interdisciplinary Studies in Rhythm, Time, and Motion (RITMO)](https://www.uio.no/ritmo/english/projects/ritpart/events/workshops/2022/pupillometry/index.html).
 
 ## Contents
 `Fink_RITMO_pupillometry_workshop_interactive.mlx` is the main script we will work with. It contains text, MATLAB code, and interactive user interfaces for understanding some fundamentals of time series analyses. 
